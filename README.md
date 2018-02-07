@@ -8,16 +8,21 @@ importantly, did you ever wonder why no one did it before?
 Then you found the right package!
 
 
-Install it:
+### Install it:
 
 ```
 devtools::install_github("federicomarini/aaaaR")
 ```
 
-Load it and use it right away:
+### Load it and use it right away:
 
 ```
 library("aaaaR")
 aaaar("Federico")
 ```
+
+### Why `aaaaR`?
+
+Well even if it sounds like talking to a pirate, the acronym rather stands for 
+`a`mino `a`cids `a`ll `a`round `R`
 
