@@ -1,0 +1,13 @@
+Package: aaaaR
+Version: 0.0.0.9000
+Title: Let the aminoacids do the talking, in R
+Description: aaaaR provides a rapid interface to translate your words into 
+  aminoacids. And as a side effect, it leaves you wondering why noone did it 
+  until now.
+Authors@R: person("Federico", "Marini",
+  email = "marinif@uni-mainz.de",role = c("aut", "cre"))
+License: MIT + file LICENSE
+Depends: R (>= 2.10)
+Encoding: UTF-8
+ByteCompile: true
+RoxygenNote: 6.0.1
